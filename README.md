@@ -16,4 +16,4 @@ This section documents the screenshots for **Experiment 6.2**.
 
 
 
-### ✍️ Made By: **Rohit Gupta**
+### ✍️ Made By: **Aashish Rehani**
